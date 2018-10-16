@@ -16,7 +16,7 @@ class Lab
   end
 
   def is_zero?(num)
-    if num = 0
+    if num == 0
       return true
     else
       return false
